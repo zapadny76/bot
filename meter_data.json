@@ -1,0 +1,18 @@
+{
+    "2070036610": [
+        {
+            "apartment_number": "150",
+            "date": "2025-01-27 13:57:33",
+            "cold_water": 124,
+            "hot_water": 567
+        }
+    ],
+    "439949733": [
+        {
+            "apartment_number": "150",
+            "date": "2025-01-27 15:13:49",
+            "cold_water": 345,
+            "hot_water": 567
+        }
+    ]
+}
